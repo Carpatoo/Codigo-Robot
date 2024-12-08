@@ -1,0 +1,1 @@
+hola gente, este es el código con el que ganamos la competencia, debe ser abierto en una carpeta que se llame "Speed_Selector", sin las comillas (En vola no es necesario que se llame así la carpeta, no he intentado)
